@@ -18,6 +18,6 @@ BaselineOfTx3 >> baseline: spec [
 			package: 'Tx3-Roassal3' with: [spec requires: 'Roassal3'].
 		spec 
 			group: 'Core' with: #('Tx3' 'Tx3-Events' 'Tx3-Tests');
-			group: 'default' with: #('Core' 'Tx3Roassal3')
+			group: 'default' with: #('Core' 'Tx3-Roassal3')
 	]
 ]
